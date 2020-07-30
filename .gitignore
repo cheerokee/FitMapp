@@ -1,0 +1,5 @@
+.idea/
+_public/
+/vendor/
+_app/node_modules/
+public/uploads/
